@@ -2,28 +2,28 @@
 	var carousel = document.querySelector('.carousel');
 	var background = document.querySelector('#background');
 	var entries = [{
-		handle: 'Chhau Mask',
-		url: 'https://en.wikipedia.org/wiki/Chhau_mask',
+		handle: 'The JS Club - Enquero',
+		url: '#',
 		entry: './assets/chhau-mask.jpg',
 		background: 'hsl(35, 60%, 50%)'
 	}, {
-		handle: 'Cheriyal Mask',
-		url: 'https://en.wikipedia.org/wiki/Cheriyal_scroll_painting#The_Tradition',
+		handle: 'The JS Club - Enquero',
+		url: '#',
 		entry: './assets/cherial-woman-mask.jpg',
 		background: 'hsl(0, 40%, 15%)'
 	}, {
-		handle: 'Cheriyal Mask',
-		url: 'https://en.wikipedia.org/wiki/Cheriyal_scroll_painting#The_Tradition',
+		handle: 'The JS Club - Enquero',
+		url: '#',
 		entry: './assets/cherial-mask.jpg',
 		background: 'hsl(198, 5%, 50%)'
 	}, {
-		handle: 'Jamini Roy',
-		url: 'https://en.wikipedia.org/wiki/Jamini_Roy#Style',
+		handle: 'The JS Club - Enquero',
+		url: '#',
 		entry: './assets/jamini-mask.jpg',
 		background: 'radial-gradient(hsl(243, 40%, 26%), hsl(243, 60%, 17%))'
 	}, {
-		handle: 'Jamini Roy',
-		url: 'https://en.wikipedia.org/wiki/Jamini_Roy#Style',
+		handle: 'The JS Club - Enquero',
+		url: '#',
 		entry: './assets/jamini-mother-mask.jpg',
 		background: 'radial-gradient(rgb(132, 0, 0), rgb(87, 0, 0))'
 	}];
