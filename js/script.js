@@ -7,22 +7,22 @@
 		entry: './assets/chhau-mask.jpg',
 		background: 'hsl(35, 60%, 50%)'
 	}, {
-		handle: 'Muthu'',
+		handle: 'Muthu',
 		url: '#',
 		entry: './assets/cherial-woman-mask.jpg',
 		background: 'hsl(0, 40%, 15%)'
 	}, {
-		handle: 'Muthu'',
+		handle: 'Muthu',
 		url: '#',
 		entry: './assets/cherial-mask.jpg',
 		background: 'hsl(198, 5%, 50%)'
 	}, {
-		handle: 'Muthu'',
+		handle: 'Muthu',
 		url: '#',
 		entry: './assets/jamini-mask.jpg',
 		background: 'radial-gradient(hsl(243, 40%, 26%), hsl(243, 60%, 17%))'
 	}, {
-		handle: 'Muthu'',
+		handle: 'Muthu',
 		url: '#',
 		entry: './assets/jamini-mother-mask.jpg',
 		background: 'radial-gradient(rgb(132, 0, 0), rgb(87, 0, 0))'
